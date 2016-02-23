@@ -1,0 +1,2 @@
+# scipy-lectures
+learn scipy
